@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncSin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{272305B7-F048-4393-B387-537CA6912CF9}|FuncSin.vcxproj|C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncSin\\funcsin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{272305B7-F048-4393-B387-537CA6912CF9}|FuncSin.vcxproj|solutionrelative:funcsin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272305B7-F048-4393-B387-537CA6912CF9}|FuncSin.vcxproj|C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncSin\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{272305B7-F048-4393-B387-537CA6912CF9}|FuncSin.vcxproj|solutionrelative:pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272305B7-F048-4393-B387-537CA6912CF9}|FuncSin.vcxproj|C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncSin\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{272305B7-F048-4393-B387-537CA6912CF9}|FuncSin.vcxproj|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncSin\\pch.cpp",
+              "RelativeDocumentMoniker": "pch.cpp",
+              "ToolTip": "C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncSin\\pch.cpp",
+              "RelativeToolTip": "pch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T13:42:09.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "funcsin.cpp",
+              "DocumentMoniker": "C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncSin\\funcsin.cpp",
+              "RelativeDocumentMoniker": "funcsin.cpp",
+              "ToolTip": "C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncSin\\funcsin.cpp",
+              "RelativeToolTip": "funcsin.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T13:36:42.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncSin\\dllmain.cpp",
+              "RelativeDocumentMoniker": "dllmain.cpp",
+              "ToolTip": "C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncSin\\dllmain.cpp",
+              "RelativeToolTip": "dllmain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T13:35:20.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

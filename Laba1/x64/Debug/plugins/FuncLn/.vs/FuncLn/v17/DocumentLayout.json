@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncLn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E329B1C1-37F2-4134-9DE7-1813274A6511}|FuncLn.vcxproj|C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncLn\\funcln.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E329B1C1-37F2-4134-9DE7-1813274A6511}|FuncLn.vcxproj|solutionrelative:funcln.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E329B1C1-37F2-4134-9DE7-1813274A6511}|FuncLn.vcxproj|C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncLn\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E329B1C1-37F2-4134-9DE7-1813274A6511}|FuncLn.vcxproj|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "funcln.cpp",
+              "DocumentMoniker": "C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncLn\\funcln.cpp",
+              "RelativeDocumentMoniker": "funcln.cpp",
+              "ToolTip": "C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncLn\\funcln.cpp",
+              "RelativeToolTip": "funcln.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T17:39:22.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncLn\\dllmain.cpp",
+              "RelativeDocumentMoniker": "dllmain.cpp",
+              "ToolTip": "C:\\Users\\nasty\\3D Objects\\\u041D\u041F C\u002B\u002B\\\u0414\u0417\\Laba1\\x64\\Debug\\plugins\\FuncLn\\dllmain.cpp",
+              "RelativeToolTip": "dllmain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T17:39:05.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

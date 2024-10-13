@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+  funcln.cpp
+C:\Users\nasty\3D Objects\НП C++\ДЗ\Laba1\x64\Debug\plugins\FuncLn\funcln.cpp(12,9): warning C4297: calculate: ожидается, что функция не будет выдавать исключения, но она это делает
+  (компиляция исходного файла "/funcln.cpp")
+  C:\Users\nasty\3D Objects\НП C++\ДЗ\Laba1\x64\Debug\plugins\FuncLn\funcln.cpp(12,9):
+  Функция типа extern "C", указан параметр /EHc
+  
+  Создание кода...
+     Создается библиотека C:\Users\nasty\3D Objects\НП C++\ДЗ\Laba1\x64\Debug\plugins\FuncLn\x64\Debug\FuncLn.lib и объект C:\Users\nasty\3D Objects\НП C++\ДЗ\Laba1\x64\Debug\plugins\FuncLn\x64\Debug\FuncLn.exp
+  FuncLn.vcxproj -> C:\Users\nasty\3D Objects\НП C++\ДЗ\Laba1\x64\Debug\plugins\FuncLn\x64\Debug\FuncLn.dll
